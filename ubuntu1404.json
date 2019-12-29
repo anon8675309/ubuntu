@@ -5,8 +5,8 @@
   "disk_size": "65536",
   "iso_checksum": "b40a5eacc4772406f2d4532e79bf6b81ece626e5059af2947efb53c42e640378",
   "iso_checksum_type": "sha256",
-  "iso_name": "ubuntu-14.04.6-server-amd64+mac.iso",
-  "iso_url": "http://cdimage.ubuntu.com/ubuntu/releases/14.04/release/ubuntu-14.04.6-server-amd64+mac.iso",
+  "iso_name": "ubuntu-14.04.6-server-amd64.iso",
+  "iso_url": "http://releases.ubuntu.com/14.04/ubuntu-14.04.6-server-amd64.iso",
   "memory": "512",
   "preseed" : "preseed.cfg",
   "boot_command_prefix": "<esc><esc><enter><wait>"
